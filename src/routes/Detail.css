@@ -1,0 +1,26 @@
+.detail {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 80%;
+  background: white;
+}
+
+.detail img {
+  display: block;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.detail_content {
+  padding: 0 20px;
+}
+
+.detail_year {
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.detail_summary {
+  text-align: justify;
+  text-justify: inter-word;
+}
